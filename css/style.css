@@ -2,7 +2,7 @@ body {
 font-family: 'Arvo', serif;
 }
 
-.titular {
+.headline {
     background-color: #fff;
     padding: 0px;
     margin: 50px;
@@ -33,7 +33,7 @@ div > img {
   padding: 10px;
 }
 
-.texto {
+.text {
   /*display: block;*/
   float: left;
   position:relative;
